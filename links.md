@@ -13,6 +13,15 @@
 
 ---
 
+## TRAINING
+
+### [MICROSOFT TRAINING DAYS](https://www.microsoft.com/en-gb/events/training-days/)
+
+### [Azure AZ-900 + Free Exam](https://mktoevents.com/microsoft+event/312993/157-gqe-382?wt.mc_id=AID3038825_QSG_576044)
+
+### [Security and Identity _ Free Exam](https://mktoevents.com/microsoft+event/313032/157-gqe-382?wt.mc_id=AID3043217_QSG_576053)
+
+---
 ## JOBS
 
 [https://www.cybersecurityjobsite.com/](https://www.cybersecurityjobsite.com/)
