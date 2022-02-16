@@ -21,6 +21,10 @@
 
 ### [Security and Identity _ Free Exam](https://mktoevents.com/microsoft+event/313032/157-gqe-382?wt.mc_id=AID3043217_QSG_576053)
 
+### [AWS Networking, Storage and IoT](https://explore.skillbuilder.aws/learn)
+
+### [AWS Practitioner](https://aws.amazon.com/certification/policies/before-testing/#Exam_pricing)
+
 ---
 ## JOBS
 
