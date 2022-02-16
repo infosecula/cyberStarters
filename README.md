@@ -23,3 +23,7 @@ Week 2 (expired)
 ### [COMPTIA Network+ Study Guide 008](https://drive.protonmail.com/urls/Z1PWMZ956R#i467if44ZIND)
 ### [COMPTIA Network+ Certification Guide](https://drive.protonmail.com/urls/5PVKK0ND8R#CsB1NKfpo5ZW)
 ### [CCSK Certificate of Cloud Security Knowledge Exam Guide](https://drive.protonmail.com/urls/YZS0J990CG#xwLAFOr6rM9v)
+
+### [Messer Network+ 006 Study Guide](https://github.com/Ogdini/cyberStarters/blob/main/Messer%20Network%2B%20006%20Study%20Guide.pdf)
+
+### [CompTIA Security+ Practice Tests](https://github.com/Ogdini/cyberStarters/blob/main/COMPTIA%20SECURITY%2B%20601%20PRACTICE%20TESTS.pdf)
