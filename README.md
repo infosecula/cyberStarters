@@ -1,12 +1,14 @@
 # Cyber Starters Resources Repo
 
-#### [Resources](https://github.com/Ogdini/cyberStarters)
+#### [Documents & Resources](https://github.com/Ogdini/cyberStarters)
 
 ## LINKS
 
 #### [Course Timetable](https://drive.protonmail.com/urls/CFG4BXRKKR#HXPywdxTLw3d)
 #### [Firebrand UCertify](https://firebrand.ucertify.com/)
 #### [DHS-ICS VLC](https://ics-training.inl.gov/learn/signin)
+#### [Yammer](https://www.yammer.com/nationalskillsbootcamp/#/home?type=my_all)
+#### [Reading List](links.md) **important stuff
 
 ## CISMP TEAMS MEETING LINKS
 
