@@ -20,8 +20,8 @@ Week 2 (expired)
 
 ## COURSEWARE *password for download: `firebrand`*
 ### [CISSP All-in-One Exam Guide, 6th Edition](https://drive.protonmail.com/urls/Q0SMBC3MZW#ShvtpYVKWKIE)
-### [COMPTIA Network+ Study Guide 008](https://drive.protonmail.com/urls/Z1PWMZ956R#i467if44ZIND)
-### [COMPTIA Network+ Certification Guide](https://drive.protonmail.com/urls/5PVKK0ND8R#CsB1NKfpo5ZW)
+### [CompTIA Network+ Study Guide 008](https://drive.protonmail.com/urls/Z1PWMZ956R#i467if44ZIND)
+### [CompTIA Network+ Certification Guide](https://drive.protonmail.com/urls/5PVKK0ND8R#CsB1NKfpo5ZW)
 ### [CCSK Certificate of Cloud Security Knowledge Exam Guide](https://drive.protonmail.com/urls/YZS0J990CG#xwLAFOr6rM9v)
 
 ### [Messer Network+ 006 Study Guide](https://github.com/Ogdini/cyberStarters/blob/main/Messer%20Network%2B%20006%20Study%20Guide.pdf)
