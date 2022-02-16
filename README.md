@@ -1,13 +1,11 @@
 # Cyber Starters Resources Repo
 
-## All Course Documents 
-#### [Github link](https://github.com/Ogdini/cyberStarters)
+#### [Resources](https://github.com/Ogdini/cyberStarters)
 
 ## LINKS
 
 #### [Course Timetable](https://drive.protonmail.com/urls/CFG4BXRKKR#HXPywdxTLw3d)
 #### [Firebrand UCertify](https://firebrand.ucertify.com/)
-
 #### [DHS-ICS VLC](https://ics-training.inl.gov/learn/signin)
 
 ## CISMP TEAMS MEETING LINKS
@@ -24,3 +22,4 @@ Week 2 (expired)
 ### [CISSP All-in-One Exam Guide, 6th Edition](https://drive.protonmail.com/urls/Q0SMBC3MZW#ShvtpYVKWKIE)
 ### [COMPTIA Network+ Study Guide 008](https://drive.protonmail.com/urls/Z1PWMZ956R#i467if44ZIND)
 ### [COMPTIA Network+ Certification Guide](https://drive.protonmail.com/urls/5PVKK0ND8R#CsB1NKfpo5ZW)
+### [CCSK Certificate of Cloud Security Knowledge Exam Guide](https://drive.protonmail.com/urls/YZS0J990CG#xwLAFOr6rM9v)
