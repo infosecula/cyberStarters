@@ -10,7 +10,7 @@
 ### MITRE Att&ck - [https://attack.mitre.org/](https://attack.mitre.org/) 
 ### NIST SP800 Series - [https://csrc.nist.gov/publications/sp800](https://csrc.nist.gov/publications/sp800)
 ### NIST CSF - [https://www.nist.gov/cyberframework](https://www.nist.gov/cyberframework)
-
+### [The Spectrum of State Responsibility](https://www.atlanticcouncil.org/wp-content/uploads/2012/02/022212_ACUS_NatlResponsibilityCyber.PDF)
 ---
 
 ## TRAINING
